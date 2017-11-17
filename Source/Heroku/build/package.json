@@ -1,0 +1,24 @@
+{
+  "name": "arvind",
+  "version": "1.0.0",
+  "description": "ase 10",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "engines": {
+    "node": "4.4.0",
+    "npm": "2.14.20"
+  },
+  "author": "arvind",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3",
+    "serve-favicon": "^2.4.5"
+  }
+}
